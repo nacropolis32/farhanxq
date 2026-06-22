@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @farhanxq
+- 👋 Hi, I’m @23garbage
 - 👀 I’m interested in Front End Developer
 - 🌱 I’m currently learning Web Developer
 - 💞️ I’m looking to collaborate on ...
